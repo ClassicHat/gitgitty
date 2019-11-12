@@ -1,0 +1,22 @@
+{
+  "name": "gitgitty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassicHat/gitgitty.git"
+  },
+  "author": "Dylan Buehler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClassicHat/gitgitty/issues"
+  },
+  "homepage": "https://github.com/ClassicHat/gitgitty#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
